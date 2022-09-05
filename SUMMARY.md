@@ -62,6 +62,7 @@
   * [全新安装CloudCanal(Linux/MacOS)](xi-tong-bu-shu/quan-xin-an-zhuang-cloudcanallinuxmacos.md)
   * [升级CloudCanal](xi-tong-bu-shu/sheng-ji-cloudcanal.md)
 * [FAQ](faq.md)
+* [Release Note](release-note.md)
 * [OpenAPI文档](openapi-wen-dang.md)
 * [自定义代码SDK文档](zi-ding-yi-dai-ma-sdk-wen-dang.md)
 * [运维攻略](yun-wei-gong-lve/README.md)
