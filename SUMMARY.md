@@ -7,6 +7,7 @@
   * [产品架构](chan-pin-jie-shao/chan-pin-jia-gou.md)
   * [名词解释](chan-pin-jie-shao/ming-ci-jie-shi.md)
 * [产品定价](chan-pin-ding-jia.md)
+* [License使用说明](license-shi-yong-shuo-ming.md)
 * [快速开始](kuai-su-kai-shi/README.md)
   * [安装CloudCanal](kuai-su-kai-shi/an-zhuang-cloudcanal.md)
   * [添加数据源](kuai-su-kai-shi/tian-jia-shu-ju-yuan.md)
