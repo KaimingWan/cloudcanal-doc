@@ -20,8 +20,6 @@
     * [OceanBase](shu-ju-yuan-guan-li/tian-jia-shu-ju-yuan-pei-zhi-shuo-ming/oceanbase.md)
     * [Oracle](shu-ju-yuan-guan-li/tian-jia-shu-ju-yuan-pei-zhi-shuo-ming/oracle.md)
   * [修改数据源信息](shu-ju-yuan-guan-li/xiu-gai-shu-ju-yuan-xin-xi.md)
-  * [阿里云数据源高级管理](shu-ju-yuan-guan-li/a-li-yun-shu-ju-yuan-gao-ji-guan-li/README.md)
-    * [添加机器白名单](shu-ju-yuan-guan-li/a-li-yun-shu-ju-yuan-gao-ji-guan-li/tian-jia-ji-qi-bai-ming-dan.md)
 * [监控与报警](jian-kong-yu-bao-jing/README.md)
   * [机器资源监控与报警](jian-kong-yu-bao-jing/ji-qi-zi-yuan-jian-kong-yu-bao-jing.md)
   * [任务监控与报警](jian-kong-yu-bao-jing/ren-wu-jian-kong-yu-bao-jing.md)
