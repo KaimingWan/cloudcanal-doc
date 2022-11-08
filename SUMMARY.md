@@ -36,6 +36,7 @@
   * [状态机](xi-tong-guan-li/zhuang-tai-ji.md)
   * [异步任务管理](xi-tong-guan-li/yi-bu-ren-wu-guan-li.md)
 * [任务管理](ren-wu-guan-li/README.md)
+  * [任务调度与高可用](ren-wu-guan-li/ren-wu-tiao-du-yu-gao-ke-yong.md)
   * [创建全量迁移任务](ren-wu-guan-li/chuang-jian-quan-liang-qian-yi-ren-wu.md)
   * [创建实时同步任务](ren-wu-guan-li/chuang-jian-shi-shi-tong-bu-ren-wu.md)
   * [创建全量增量一体化任务](ren-wu-guan-li/chuang-jian-quan-liang-zeng-liang-yi-ti-hua-ren-wu.md)
