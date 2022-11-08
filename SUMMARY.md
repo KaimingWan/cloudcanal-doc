@@ -38,7 +38,7 @@
   * [创建全量迁移任务](ren-wu-guan-li/chuang-jian-quan-liang-qian-yi-ren-wu.md)
   * [创建实时同步任务](ren-wu-guan-li/chuang-jian-shi-shi-tong-bu-ren-wu.md)
   * [创建全量增量一体化任务](ren-wu-guan-li/chuang-jian-quan-liang-zeng-liang-yi-ti-hua-ren-wu.md)
-  * [创建校验任务](ren-wu-guan-li/chuang-jian-xiao-yan-ren-wu.md)
+  * [创建数据校验任务](ren-wu-guan-li/chuang-jian-shu-ju-xiao-yan-ren-wu.md)
   * [创建数据订正任务](ren-wu-guan-li/chuang-jian-shu-ju-ding-zheng-ren-wu.md)
   * [查看任务日志](ren-wu-guan-li/cha-kan-ren-wu-ri-zhi.md)
   * [新增/删除表订阅](ren-wu-guan-li/xin-zeng-shan-chu-biao-ding-yue.md)
