@@ -49,6 +49,7 @@
   * [创建定时校验任务](ren-wu-guan-li/chuang-jian-ding-shi-xiao-yan-ren-wu.md)
   * [任务参数修改](ren-wu-guan-li/ren-wu-can-shu-xiu-gai.md)
 * [数据迁移与同步](shu-ju-qian-yi-yu-tong-bu/README.md)
+  * [通用监控指标](shu-ju-qian-yi-yu-tong-bu/tong-yong-jian-kong-zhi-biao.md)
   * [任务通用参数](shu-ju-qian-yi-yu-tong-bu/ren-wu-tong-yong-can-shu.md)
   * [源端数据源](shu-ju-qian-yi-yu-tong-bu/yuan-duan-shu-ju-yuan/README.md)
     * [源端通用参数](shu-ju-qian-yi-yu-tong-bu/yuan-duan-shu-ju-yuan/yuan-duan-tong-yong-can-shu.md)
