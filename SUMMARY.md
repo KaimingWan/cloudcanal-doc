@@ -67,6 +67,8 @@
   * [操作审计](guan-li-shou-ce/cao-zuo-shen-ji.md)
   * [用户管理](guan-li-shou-ce/yong-hu-guan-li.md)
   * [任务规格与性能说明](guan-li-shou-ce/ren-wu-gui-ge-yu-xing-neng-shuo-ming.md)
+  * [调节Console、Sidecar组件初始内存](guan-li-shou-ce/tiao-jie-consolesidecar-zu-jian-chu-shi-nei-cun.md)
+  * [更换CloudCanal元数据库](guan-li-shou-ce/geng-huan-cloudcanal-yuan-shu-ju-ku.md)
   * [CloudCanal日志体系说明](guan-li-shou-ce/cloudcanal-ri-zhi-ti-xi-shuo-ming.md)
 * [系统部署](xi-tong-bu-shu/README.md)
   * [虚拟机版本](xi-tong-bu-shu/xu-ni-ji-ban-ben/README.md)
