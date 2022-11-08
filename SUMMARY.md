@@ -17,6 +17,7 @@
   * [添加阿里云数据源](shu-ju-yuan-guan-li/tian-jiaali-yun-shu-ju-yuan.md)
   * [添加数据源配置说明](shu-ju-yuan-guan-li/tian-jia-shu-ju-yuan-pei-zhi-shuo-ming/README.md)
     * [OceanBase](shu-ju-yuan-guan-li/tian-jia-shu-ju-yuan-pei-zhi-shuo-ming/oceanbase.md)
+    * [Oracle](shu-ju-yuan-guan-li/tian-jia-shu-ju-yuan-pei-zhi-shuo-ming/oracle.md)
   * [添加数据源详细说明](shu-ju-yuan-guan-li/tian-jia-shu-ju-yuan-xiang-xi-shuo-ming.md)
   * [修改数据源信息](shu-ju-yuan-guan-li/xiu-gai-shu-ju-yuan-xin-xi.md)
   * [阿里云数据源高级管理](shu-ju-yuan-guan-li/a-li-yun-shu-ju-yuan-gao-ji-guan-li/README.md)
