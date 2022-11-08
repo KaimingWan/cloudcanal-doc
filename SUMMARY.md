@@ -46,6 +46,7 @@
   * [新增/删除表订阅](ren-wu-guan-li/xin-zeng-shan-chu-biao-ding-yue.md)
   * [重跑全量任务](ren-wu-guan-li/zhong-pao-quan-liang-ren-wu.md)
   * [创建相似任务](ren-wu-guan-li/chuang-jian-xiang-si-ren-wu.md)
+  * [任务资源占用与解绑](ren-wu-guan-li/ren-wu-zi-yuan-zhan-yong-yu-jie-bang.md)
   * [创建定时校验任务](ren-wu-guan-li/chuang-jian-ding-shi-xiao-yan-ren-wu.md)
   * [任务参数修改](ren-wu-guan-li/ren-wu-can-shu-xiu-gai.md)
 * [数据迁移与同步](shu-ju-qian-yi-yu-tong-bu/README.md)
